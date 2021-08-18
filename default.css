@@ -218,8 +218,8 @@ a:hover
 #primaryContent
 {
 	margin: 0em 0em 0em 0em;
-	padding: 1em;
-	border-left: dotted 1px #cacaca;
+	padding: 2em;
+	border-left: dotted 5px #cacaca;
 }
 
 /* Secondary Content */
