@@ -82,7 +82,7 @@ a:hover
 {
 	height: 2em;
 	background: #fafafa url('images/a2.gif') top left repeat-x;
-	margin-left: 11em;
+	margin-left: 0em;
 	position: relative;
 }
 
@@ -129,7 +129,7 @@ a:hover
 {
 	background: #fff url('images/a3.gif') top left repeat-x;
 	margin-top: 1px;
-	padding-top: 1.5em;
+	padding-top: .5em;
 }
 
 #content p
