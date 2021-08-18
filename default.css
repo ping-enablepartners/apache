@@ -211,7 +211,7 @@ a:hover
 #primaryContentContainer
 {
 	float: right;
-	margin-left: 15em;
+	padding: 5em;
 	width: 100%;
 }
 
@@ -219,7 +219,7 @@ a:hover
 {
 	margin: 0em 0em 0em 0em;
 	padding: 2em;
-	border-left: dotted 5px #cacaca;
+	border-left: dotted 1px #cacaca;
 }
 
 /* Secondary Content */
