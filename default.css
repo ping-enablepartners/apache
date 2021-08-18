@@ -51,7 +51,7 @@ a:hover
 	width: 15em;
 	float: left;
 	position: relative;
-	background: #b91d2b url('../images/ping.png') top left no-repeat;
+	background: #b91d2b url('../images/ping.png') top middle no-repeat;
 }
 
 #header h1
