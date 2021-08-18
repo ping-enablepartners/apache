@@ -211,14 +211,14 @@ a:hover
 #primaryContentContainer
 {
 	float: right;
-	margin-left: 2em;
+	margin-left: 5em;
 	width: 100%;
 }
 
 #primaryContent
 {
 	margin: 0em 0em 0em 0em;
-	padding: 0em;
+	padding: 1em;
 	border-left: dotted 1px #cacaca;
 }
 
