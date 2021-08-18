@@ -26,7 +26,7 @@ body
 
 a
 {
-	color: #b91d2b;
+	color: #AF0A0A;
 	text-decoration: underline;
 }
 
@@ -46,12 +46,12 @@ a:hover
 
 #header
 {
-	padding: 1em 1em 1em 1em;
+	padding: 0em 1.5em 0em 1.5em;
 	height: 8em;
 	width: 15em;
 	float: left;
 	position: relative;
-	background: #b91d2b url('../images/ping.png') top left no-repeat;
+	background: #AF0A0A url('../images/ping.png') top right no-repeat;
 }
 
 #header h1
