@@ -210,7 +210,7 @@ a:hover
 
 #primaryContentContainer
 {
-	float: right;
+	float: left;
 	margin-left: 0em;
 	width: 100%;
 }
