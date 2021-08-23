@@ -145,13 +145,11 @@ a:hover
 
 #content h3
 {
-	padding-top: 1.0em;
 	font-size: 1.1em;
 }
 
 #content h2,h3,h4,h5,h6
 {
-	margin-top: 1.2em;
 	border-top: dotted 1px #cacaca;
 }
 
